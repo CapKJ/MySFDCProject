@@ -11,6 +11,6 @@ public with sharing class MyFirstGitController {
    
    public void testingwell(){
       //welcome
-   
+      string p  = 'welcome';
    }
 }
